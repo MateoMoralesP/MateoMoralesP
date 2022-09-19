@@ -1,5 +1,5 @@
 
-# ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hola , soy Mateo Morales Pérez 👋
+# Hola , soy Mateo Morales Pérez 👋
 ### full-stack web & engineer
 
 Soy ingeniero de software profesional desde hace más de dos años.
