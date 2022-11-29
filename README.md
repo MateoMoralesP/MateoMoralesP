@@ -23,7 +23,7 @@ Y alguna más...
 </br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mateo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/mateo-morales-p/)
-[![Udemy](https://img.shields.io/badge/Udemy-mateo-EC5252?style=for-the-badge&logo=udemy&logoColor=white&labelColor=101010)]()
+
 
 
 #### Puedes apoyar mi trabajo haciendo "☆ Star" en el repo o nominarme a "GitHub Star". ¡Gracias!
