@@ -17,12 +17,11 @@ Actualmente me desarrollo como programador full-stack web creando proyectos para
 </br>
 Y alguna más...
 ## Algunos de mis proyectos
-Pac-Man quiz
-https://mateomoralesp.github.io/Pac-Man/
-Angular
-https://mateomoralesp.github.io/Angular-base/
-Subneteo de red
-https://mateomoralesp.github.io/subneteo/
+<a href="https://mateomoralesp.github.io/Pac-Man/">Pac-Man quiz</a>
+<br>
+<a href="https://mateomoralesp.github.io/Angular-base/">Angular</a>
+<br>
+<a href="https://mateomoralesp.github.io/subneteo/">Subneteo de red</a>
 ## Encuéntrame en:
 
 [![Facebook](https://img.shields.io/badge/Facebook-@Mateo-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.facebook.com/profile.php?id=100052531386969)
