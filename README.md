@@ -16,7 +16,7 @@ Actualmente me desarrollo como programador full-stack web creando proyectos para
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 </br>
 Y alguna más...
-##Algunos de mis proyectos
+## Algunos de mis proyectos
 Pac-Man quiz
 https://mateomoralesp.github.io/Pac-Man/
 Angular
