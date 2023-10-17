@@ -6,7 +6,7 @@ Soy ingeniero de software profesional desde hace más de dos años.
 Actualmente me desarrollo como programador full-stack web creando proyectos para el sector publico en México
 
 ## Tecnologías:
-[![PHP](https://img.shields.io/badge/php-007396?style=for-the-badge&logo=php&logoColor=white&labelColor=#7a86b8)]()
+[![PHP](https://img.shields.io/badge/php-000?style=for-the-badge&logo=php&logoColor=white&labelColor=#733499)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![ORACLE](https://img.shields.io/badge/ORACLE-4479A1?style=for-the-badge&logo=oracle&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
