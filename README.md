@@ -6,15 +6,15 @@ Soy ingeniero de software profesional desde hace más de dos años.
 Actualmente me desarrollo como programador full-stack web creando proyectos para el sector publico en México
 
 ## Tecnologías:
-[![PHP](https://img.shields.io/badge/php-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=867eff)]()
+[![PHP](https://img.shields.io/badge/php-007396?style=for-the-badge&logo=php&logoColor=white&labelColor=#7a86b8)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
-[![PYTHON](https://img.shields.io/badge/python-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=blue)]()
+[![ORACLE](https://img.shields.io/badge/ORACLE-4479A1?style=for-the-badge&logo=oracle&logoColor=white&labelColor=101010)]()
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 </br>
 [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
+[![PYTHON](https://img.shields.io/badge/python-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=blue)]()
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
-[![ORACLE](https://img.shields.io/badge/ORACLE-4479A1?style=for-the-badge&logo=oracle&logoColor=white&labelColor=101010)]()
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 </br>
 Y alguna más...
 ## Algunos de mis proyectos
@@ -44,5 +44,5 @@ Y alguna más...
 
 
 <!-================================->
-<h3 align="center">Un apasionado desarrollador frontend de México</h3>
+<h3 align="center">Un apasionado desarrollador por frontend de México</h3>
 
