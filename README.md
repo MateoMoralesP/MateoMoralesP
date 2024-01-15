@@ -2,8 +2,8 @@
 # Hola , soy Mateo Morales Pérez 👋
 ### full-stack web & engineer
 
-Soy ingeniero de software profesional desde hace más de dos años.
-Actualmente me desarrollo como programador full-stack web creando proyectos para el sector publico en México
+Soy ingeniero en sistemas profesional desde hace más de dos años.
+Actualmente me desarrollo como programador full-stack web creando proyectos para el sector público en México
 
 ## Tecnologías:
 [![PHP](https://img.shields.io/badge/php-000?style=for-the-badge&logo=php&logoColor=white&labelColor=#733499)]()
@@ -17,6 +17,8 @@ Actualmente me desarrollo como programador full-stack web creando proyectos para
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 </br>
 Y alguna más...
+## MI PORTAFOLIO
+<a href="https://mateomoralesp.github.io/portafolio/">MI portafolio</a>
 ## Algunos de mis proyectos
 <a href="https://mateomoralesp.github.io/Pac-Man/">Pac-Man quiz</a>
 <br>
