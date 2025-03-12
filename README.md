@@ -1,11 +1,12 @@
 
-# Hola , soy Mateo Morales Pérez 👋
-### full-stack web & engineer
+# Hola, soy Mateo Morales Pérez 👋
+### Full-Stack Web Engineer
 
-Soy ingeniero en sistemas profesional desde hace más de dos años.
-Actualmente me desarrollo como programador full-stack web creando proyectos para el sector público en México
+Soy un ingeniero en sistemas con más de tres años de experiencia en desarrollo web. Actualmente, trabajo como desarrollador full-stack, creando soluciones tecnológicas para el sector público en México. 
+Mi enfoque principal está en la creación de aplicaciones eficientes, escalables y con un diseño atractivo.
 
-## Tecnologías:
+
+## 🛠️ Tecnologías
 [![PHP](https://img.shields.io/badge/php-000?style=for-the-badge&logo=php&logoColor=white&labelColor=#733499)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![ORACLE](https://img.shields.io/badge/ORACLE-4479A1?style=for-the-badge&logo=oracle&logoColor=white&labelColor=101010)]()
@@ -26,9 +27,6 @@ Y alguna más...
 <br>
 <a href="https://mateomoralesp.github.io/subneteo/">Subneteo de red</a>
 ## Encuéntrame en:
-
-[![Facebook](https://img.shields.io/badge/Facebook-@Mateo-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.facebook.com/profile.php?id=100052531386969)
-</br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mateo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/mateo-morales-p/)
 
