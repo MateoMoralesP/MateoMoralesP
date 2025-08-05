@@ -1,17 +1,24 @@
 # 👋 Hola, soy Mateo Morales Pérez
-### 🚀 Full-Stack Web Engineer | Especialista en Desarrollo para Gobierno
+### 🚀 Full-Stack Web Engineer | Especialista en Tecnologías Gubernamentales
 
-Soy un ingeniero en sistemas con más de **tres años de experiencia** desarrollando soluciones web para el sector público en México. Actualmente me desempeño como **desarrollador full-stack**, participando en el diseño, desarrollo, mantenimiento y optimización de sistemas administrativos y de gestión.
-
-Mi enfoque se centra en:
-- Desarrollo frontend moderno e interactivo
-- Backend robusto y seguro
-- Integración con bases de datos Oracle y APIs institucionales
-- Optimización de procesos gubernamentales y digitales
+Soy un **ingeniero en sistemas** con más de **tres años de experiencia profesional** en desarrollo web. Actualmente me desempeño como **desarrollador full-stack**, creando plataformas digitales para la modernización del sector público en México. Mi trabajo está enfocado en ofrecer soluciones **eficientes, accesibles y seguras**, alineadas a las necesidades institucionales y ciudadanas.
 
 ---
 
-## ⚙️ Tecnologías y Herramientas
+## ✨ ¿Qué me diferencia?
+
+✅ Desarrollo de sistemas escalables con diseño profesional y experiencia de usuario moderna  
+✅ Dominio en backend robusto (PHP, Node.js, Java, Python)  
+✅ Integración con bases de datos empresariales como **Oracle** y **MySQL**  
+✅ Automatización de procesos institucionales, con enfoque en **mejorar tiempos y reducir errores humanos**  
+✅ Interfaces accesibles y responsivas usando **Angular, Bootstrap y JavaScript moderno**  
+✅ Seguridad en el manejo de datos y cumplimiento normativo (protección de datos, firmas digitales, CURP biométrica, etc.)
+
+> 💬 Me apasiona crear herramientas que realmente generen impacto, desde sistemas administrativos hasta plataformas públicas para trámites en línea.
+
+---
+
+## 🧠 Tecnologías que domino
 
 ### 🖥️ Frontend
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
@@ -32,7 +39,7 @@ Mi enfoque se centra en:
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)]()
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)]()
 
-### 🧰 Herramientas y otros
+### 🔧 Herramientas y DevOps
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]()
 [![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)]()
@@ -40,23 +47,28 @@ Mi enfoque se centra en:
 
 ---
 
-## 🌐 Portafolio Web
+## 🧩 Proyectos destacados
 
-🔗 [Visita mi portafolio](https://mateomoralesp.github.io/portafolio/)
-
----
-
-## 🧠 Algunos Proyectos Interesantes
-
-- 🎮 [Pac-Man Quiz Interactivo](https://mateomoralesp.github.io/Pac-Man/)
-- 🌐 [Base Angular para proyectos escalables](https://mateomoralesp.github.io/Angular-base/)
-- 🌐 [Calculadora de Subneteo de Red](https://mateomoralesp.github.io/subneteo/)
+- 🎮 [Pac-Man Quiz Interactivo](https://mateomoralesp.github.io/Pac-Man/) – HTML, CSS y JavaScript
+- ⚙️ [Angular Base Project](https://mateomoralesp.github.io/Angular-base/) – Base para iniciar desarrollos escalables
+- 🌐 [Calculadora de Subneteo](https://mateomoralesp.github.io/subneteo/) – Ideal para enseñanza y práctica de redes
 
 ---
 
-## 💼 Encuéntrame en:
+## 📂 Portafolio profesional
+
+🔗 [Visita mi portafolio completo](https://mateomoralesp.github.io/portafolio/)
+
+Incluye más proyectos, información de contacto, y diseño optimizado para empresas tecnológicas o instituciones públicas.
+
+---
+
+## 📲 Conecta conmigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mateo%20Morales%20Pérez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateo-morales-p/)
+
+¿Buscas un desarrollador con experiencia en sistemas públicos, APIs institucionales y diseño centrado en el usuario?  
+🎯 ¡Estoy listo para un nuevo reto profesional!
 
 ---
 
